@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Onboard.css - Introduce your customers to your app before they start using your app</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
+    <link rel="stylesheet" href="assets/css/osfont-icon.css">
+    <link rel="stylesheet" href="assets/css/onboard.css">
+</head>
+<body>
+    <div class="onboard-modal modal fade animated">
+        <div class="modal-dialog modal-centered">
+            <div class="modal-content text-center">
+                <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+                    <span class="close-label">Skip Intro</span>
+                    <span class="os-icon os-icon-close"></span>
+                </button>
+                <div class="onboard-slider-container">
+                    <div class="onboard-slide">
+                        <div class="onboard-media">
+                            <img alt="" src="assets/img/emoji-glasses.png" width="120px">
+                        </div>
+                        <div class="onboard-curve-left background-danger">
+                            <h4 class="onboard-title text-white">
+                                Welcome to Onboard.css
+                            </h4>
+                            <div class="onboard-text text-white">
+                                This is an example of a multistep onboard screen.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="onboard-slide">
+                        <div class="onboard-media">
+                            <img alt="" src="assets/img/emoji-ok.png" width="120px">
+                        </div>
+                        <div class="onboard-slice-right bg-color">
+                            <h4 class="onboard-title">
+                                Use it
+                            </h4>
+                            <div class="onboard-text">
+                                You can use it to introduce your customers to your app before they start using your app
+                            </div>
+                        </div>
+                    </div>
+                    <div class="onboard-slide">
+                        <div class="onboard-media">
+                            <img alt="" src="assets/img/emoji-blush.png" width="120px">
+                        </div>
+                        <div class="onboard-slice-right bg-color">
+                            <h4 class="onboard-title">
+                                Enjoy it
+                            </h4>
+                            <div class="onboard-text">
+                               Thank you for use !
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="assets/js/onboard.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script>
+        $('.onboard-modal').modal('show');
+        $('.onboard-modal .onboard-slider-container').slick({
+            dots: true,
+            infinite: false,
+            adaptiveHeight: true,
+            slidesToShow: 1,
+            slidesToScroll: 1
+        });
+    </script>
+</body>
+</html>

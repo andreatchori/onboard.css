@@ -1,0 +1,520 @@
+@charset "UTF-8";
+
+/*!
+ * onboard.css -https://andreatchori.github.io/onboard.css/
+ * Version - 1.0.0
+ *
+ * Copyright (c) 2019 André ATCHORI
+ */
+
+:root {
+  --blue: #047bf8;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #e65252;
+  --orange: #fd7e14;
+  --yellow: #fbe4a0;
+  --green: #24b314;
+  --teal: #20c997;
+  --cyan: #5bc0de;
+  --white: #fff;
+  --gray: #636c72;
+  --gray-dark: #343a40;
+  --primary: #047bf8;
+  --secondary: #292b2c;
+  --success: #24b314;
+  --info: #5bc0de;
+  --warning: #fbe4a0;
+  --danger: #e65252;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1250px;
+  --breakpoint-xxl: 1450px;
+  --breakpoint-xxxl: 1550px;
+  --breakpoint-xxxxl: 1650px;
+  --font-family-sans-serif: "Avenir Next W01", "Proxima Nova W01", "Rubik", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.onboard-modal .onboard-media {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.onboard-modal .onboard-media img {
+  margin: 0px auto;
+}
+
+.onboard-modal button.close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  float: none;
+  z-index: 999;
+  color: #111;
+  opacity: 1;
+  text-shadow: none;
+}
+
+.onboard-modal button.close .os-icon {
+  font-size: 12px;
+}
+
+.onboard-modal button.close span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.onboard-modal button.close .close-label {
+  margin-right: 10px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 0.81rem;
+}
+
+.onboard-modal .onboard-slice-right, .onboard-modal .onboard-slice-left{
+  padding: 40px 50px;
+}
+
+.onboard-modal .onboard-curve-right{
+  width: 100%;
+  height: 300px;
+  background: transparent;
+  border-top-right-radius: 50% 50%;
+}
+
+.onboard-modal .onboard-straight-line{
+  width: 100%;
+  height: 300px;
+  background: transparent;
+}
+
+.onboard-modal .onboard-curve-left{
+  width: 100%;
+  height: 300px;
+  background: transparent;
+  border-top-left-radius: 50% 50%;
+}
+
+.onboard-modal .onboard-slice-right.background-blue, .onboard-modal .onboard-slice-left.background-blue, .onboard-modal .onboard-curve-right.background-blue, 
+.onboard-modal .onboard-curve-left.background-blue, .onboard-modal .onboard-straight-line.background-blue {
+  padding: 70px 20px 40px;
+  background-color: var(--blue);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-indigo, .onboard-modal .onboard-slice-left.background-indigo, .onboard-modal .onboard-curve-right.background-indigo, 
+.onboard-modal .onboard-curve-left.background-indigo, .onboard-modal .onboard-straight-line.background-indigo {
+  padding: 70px 20px 40px;
+  background-color: var(--indigo);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-purple, .onboard-modal .onboard-slice-left.background-purple, .onboard-modal .onboard-curve-right.background-purple, 
+.onboard-modal .onboard-curve-left.background-purple, .onboard-modal .onboard-straight-line.background-purple {
+  padding: 70px 20px 40px;
+  background-color: var(--purple);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-pink, .onboard-modal .onboard-slice-left.background-pink, .onboard-modal .onboard-curve-right.background-pink, 
+.onboard-modal .onboard-curve-left.background-pink, .onboard-modal .onboard-straight-line.background-pink {
+  padding: 70px 20px 40px;
+  background-color: var(--pink);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-red, .onboard-modal .onboard-slice-left.background-red, .onboard-modal .onboard-curve-right.background-red, 
+.onboard-modal .onboard-curve-left.background-red, .onboard-modal .onboard-straight-line.background-red {
+  padding: 70px 20px 40px;
+  background-color: var(--red);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-orange, .onboard-modal .onboard-slice-left.background-orange, .onboard-modal .onboard-curve-right.background-orange, 
+.onboard-modal .onboard-curve-left.background-orange, .onboard-modal .onboard-straight-line.background-orange {
+  padding: 70px 20px 40px;
+  background-color: var(--orange);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-yellow, .onboard-modal .onboard-slice-left.background-yellow, .onboard-modal .onboard-curve-right.background-yellow, 
+.onboard-modal .onboard-curve-left.background-yellow, .onboard-modal .onboard-straight-line.background-yellow {
+  padding: 70px 20px 40px;
+  background-color: var(--yellow);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-green, .onboard-modal .onboard-slice-left.background-green, .onboard-modal .onboard-curve-right.background-green, 
+.onboard-modal .onboard-curve-left.background-green, .onboard-modal .onboard-straight-line.background-green {
+  padding: 70px 20px 40px;
+  background-color: var(--green);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-teal, .onboard-modal .onboard-slice-left.background-teal, .onboard-modal .onboard-curve-right.background-teal, 
+.onboard-modal .onboard-curve-left.background-teal, .onboard-modal .onboard-straight-line.background-teal {
+  padding: 70px 20px 40px;
+  background-color: var(--teal);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-cyan, .onboard-modal .onboard-slice-left.background-cyan, .onboard-modal .onboard-curve-right.background-cyan, 
+.onboard-modal .onboard-curve-left.background-cyan, .onboard-modal .onboard-straight-line.background-cyan {
+  padding: 70px 20px 40px;
+  background-color: var(--cyan);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-gray-dark, .onboard-modal .onboard-slice-left.background-gray-dark, .onboard-modal .onboard-curve-right.background-gray-dark, 
+.onboard-modal .onboard-curve-left.background-gray-dark, .onboard-modal .onboard-straight-line.background-gray-dark {
+  padding: 70px 20px 40px;
+  background-color: var(--gray-dark);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right.background-danger, .onboard-modal .onboard-slice-left.background-danger, .onboard-modal .onboard-curve-right.background-danger, 
+.onboard-modal .onboard-curve-left.background-danger, .onboard-modal .onboard-straight-line.background-danger {
+  padding: 70px 20px 40px;
+  background-color: var(--danger);
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-slice-right:before {
+  position: absolute;
+  content: '';
+  background: inherit;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transform-origin: right;
+  transform: skewY(8deg);
+}
+
+.onboard-modal .onboard-slice-left:before {
+  position: absolute;
+  content: '';
+  background: inherit;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transform-origin: left;
+  transform: skewY(-8deg);
+}
+
+.onboard-modal .onboard-curve-right:before, .onboard-modal .onboard-curve-left:before, .onboard-modal .onboard-straight-line:before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 300px;
+  top: 0;
+  z-index: -1;
+}
+
+.onboard-modal .onboard-slice-right h4, .onboard-modal .onboard-slice-left h4, .onboard-modal .onboard-curve-right h4, .onboard-modal .onboard-curve-left h4, .onboard-modal .onboard-straight-line h4 {
+  margin: 1.5rem;
+}
+
+.onboard-modal .onboard-slice-right .onboard-text, .onboard-modal .onboard-slice-left .onboard-text, .onboard-modal .onboard-curve-right .onboard-text, 
+.onboard-modal .onboard-curve-left .onboard-text, .onboard-modal .onboard-straight-line .onboard-text {
+  font-weight: 300;
+  font-size: 0.99rem;
+  margin: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.onboard-modal .onboard-slice-right .onboard-text:last-child , .onboard-modal .onboard-slice-left .onboard-text:last-child,
+ .onboard-modal .onboard-curve-right .onboard-text:last-child, .onboard-modal .onboard-curve-left .onboard-text:last-child, .onboard-modal .onboard-straight-line .onboard-text:last-child {
+  margin: 10px;
+}
+
+.onboard-modal .onboard-slider-container .onboard-slide {
+  display: none;
+}
+
+.onboard-modal .onboard-slider-container .onboard-slide:first-child {
+  display: block;
+}
+
+.onboard-modal .onboard-slider-container.slick-initialized .onboard-slide {
+  display: block;
+}
+
+.onboard-modal.animated .onboard-media {
+  opacity: 0;
+  -webkit-transform: translateY(80px) scale(0.8);
+          transform: translateY(80px) scale(0.8);
+  -webkit-transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  -webkit-transition-delay: 0.3s;
+          transition-delay: 0.3s;
+}
+
+.onboard-modal.animated .onboard-slice-right, .onboard-modal.animated .onboard-slice-left, .onboard-modal.animated .onboard-curve-right, 
+.onboard-modal.animated .onboard-curve-left, .onboard-modal.animated .onboard-straight-line {
+  opacity: 0;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  -webkit-transition-delay: 0.1s;
+          transition-delay: 0.1s;
+  -webkit-transform: translateY(40px);
+          transform: translateY(40px);
+}
+
+.onboard-modal.animated .onboard-title {
+  -webkit-transform: translateY(40px);
+          transform: translateY(40px);
+  -webkit-transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  -webkit-transition-delay: 0.5s;
+          transition-delay: 0.5s;
+  opacity: 0;
+}
+
+.onboard-modal.animated .onboard-text {
+  -webkit-transform: translateY(40px);
+          transform: translateY(40px);
+  -webkit-transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  transition: all 0.5s cubic-bezier(0.25, 1.1, 0.5, 1.35);
+  -webkit-transition-delay: 0.6s;
+          transition-delay: 0.6s;
+  opacity: 0;
+}
+
+.onboard-modal.show .onboard-media {
+  opacity: 1;
+  -webkit-transform: translateY(0) scale(1);
+          transform: translateY(0) scale(1);
+}
+
+.onboard-modal.show .onboard-slice-right, .onboard-modal.show .onboard-slice-left, 
+.onboard-modal.show .onboard-curve-right, .onboard-modal.show .onboard-curve-left, .onboard-modal.show .onboard-straight-line {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+.onboard-modal.show .onboard-title {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+.onboard-modal.show .onboard-text {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+.onboard-modal .slick-next, .onboard-modal .slick-prev {
+  border: none;
+  background-color: transparent;
+  font-weight: 500;
+  font-size: 0.9rem;
+  bottom: 25px;
+  position: absolute;
+  z-index: 999;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
+
+.onboard-modal .slick-next.slick-disabled, .onboard-modal .slick-prev.slick-disabled {
+  opacity: 0;
+}
+
+.onboard-modal .slick-next:focus, .onboard-modal .slick-prev:focus {
+  outline: none;
+}
+
+.onboard-modal .slick-next:before, .onboard-modal .slick-prev:before {
+  font-family: 'osfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.onboard-modal .slick-next {
+  right: 50px;
+}
+
+.onboard-modal .slick-next:before {
+  content: "\e986";
+  right: -20px;
+}
+
+.onboard-modal .slick-prev {
+  left: 50px;
+}
+
+.onboard-modal .slick-prev:before {
+  content: "\e987";
+  left: -20px;
+}
+
+.onboard-modal .slick-dots {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  padding: 0px;
+  margin: 0px;
+}
+
+.onboard-modal .slick-dots li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 5px;
+}
+
+.onboard-modal .slick-dots li button {
+  font-size: 0px;
+  color: transparent;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+  border: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  padding: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.onboard-modal .slick-dots li button:hover {
+  opacity: 1;
+}
+
+.onboard-modal .slick-dots li button:focus {
+  outline: none;
+}
+
+.onboard-modal .slick-dots li.slick-active button {
+  opacity: 1;
+}
+
+.onboard-modal .onboard-slide:focus {
+  outline: none;
+}
+
+.onboard-modal .onboard-slide .onboard-slice-right, .onboard-modal .onboard-slide .onboard-slice-left, .onboard-modal .onboard-slide .onboard-curve-right, 
+.onboard-modal .onboard-slide .onboard-curve-left, .onboard-modal .onboard-slide .onboard-straight-line {
+  padding: 80px;
+}
+
+@media (min-height: 700px) and (min-width: 768px) {
+  .modal-dialog.modal-centered {
+    top: 50%;
+    -webkit-transform: translate(0, -80%);
+            transform: translate(0, -80%);
+    margin: 0px auto;
+  }
+  .modal.show .modal-dialog.modal-centered {
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+            transform: translate(0, -50%);
+    margin: 0px auto;
+  }
+}
+
+/* Text color */
+
+.text-blue {
+  color: var(--blue);
+}
+
+.text-indigo {
+  color: var(--indigo);
+}
+
+.text-purple {
+  color: var(--purple);
+}
+
+.text-pink {
+  color: var(--pink);
+}
+
+.text-red {
+  color: var(--red);
+}
+
+.text-orange {
+  color: var(--orange);
+}
+
+.text-yellow {
+  color: var(--yellow);
+}
+
+.text-green {
+  color: var(--green);
+}
+
+.text-teal {
+  color: var(--teal);
+}
+
+.text-cyan {
+  color: var(--cyan);
+}
+
+.text-white {
+  color: var(--white);
+}
+
+.text-blue {
+  color: var(--gray);
+}
+
+.text-gray-dark {
+  color: var(--gray-dark);
+}
+
+.text-primary {
+  color: var(--primary);
+}
+
+.text-success {
+  color: var(--success);
+}
+
+.text-info {
+  color: var(--info);
+}
+
+.text-warning {
+  color: var(--warning);
+}
+
+.text-danger {
+  color: var(--danger);
+}
+
+.text-light {
+  color: var(--light);
+}
+
+.text-dark {
+  color: var(--dark);
+}

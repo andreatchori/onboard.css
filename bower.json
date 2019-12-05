@@ -1,0 +1,5 @@
+{
+  "name": "onboard.css",
+  "main": "./onboard.css",
+  "ignore": [".*", "*.yml", "Gemfile", "Gemfile.lock", "*.md"]
+}
