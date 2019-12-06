@@ -1,4 +1,6 @@
 
+🏝️🏖️💯 Introduce your customers to your app before they start using your app
+
 `onboard.css` is a multistep onboarding screen, you can use it to introduce your customers to your app, or collect additional information from them before they start using your app.
 
 ## Installation
