@@ -81,6 +81,302 @@
   padding: 40px 50px;
 }
 
+.onboard-modal .onboard-electric-wave-blue{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-blue.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-blue .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-blue .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-cyan{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-cyan.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-cyan .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-cyan .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-danger{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-danger.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-danger .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-danger .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-gray-dark{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-gray-dark.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-gray .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-gray .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-green{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-green.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-green .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-green .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-indigo{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-indigo.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-indigo .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-indigo .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-orange{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-orange.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-orange .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-orange .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-pink{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-pink.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-pink .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-pink .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-purple{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-purple.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-purple .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-purple .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-red{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-red.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-red .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-red .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-teal{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-teal.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-teal .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-teal .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-electric-wave-yellow{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/electric-wave-yellow.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-electric-wave-yellow .onboard-title{
+  margin-top: 80px;
+}
+
+.onboard-modal .onboard-electric-wave-yellow .onboard-text{
+  margin-top: 30px;
+}
+
+.onboard-modal .onboard-wave-light{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-light.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-blue{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-blue.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-cyan{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-cyan.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-danger{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-danger.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-gray-dark{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-gray-dark.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-green{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-green.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-indigo{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-indigo.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-orange{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-orange.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-pink{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-pink.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-purple{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-purple.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-red{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-red.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-teal{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-teal.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.onboard-modal .onboard-wave-yellow{
+  padding: 70px 50px 40px;
+  background-image: url(../img/waves/onboard-wave-yellow.png);
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
 .onboard-modal .onboard-curve-right{
   width: 100%;
   height: 300px;
@@ -101,85 +397,93 @@
   border-top-left-radius: 50% 50%;
 }
 
+.onboard-modal .onboard-normal-curve{
+  width: 100%;
+  height: 300px;
+  background: transparent;
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+}
+
 .onboard-modal .onboard-slice-right.background-blue, .onboard-modal .onboard-slice-left.background-blue, .onboard-modal .onboard-curve-right.background-blue, 
-.onboard-modal .onboard-curve-left.background-blue, .onboard-modal .onboard-straight-line.background-blue {
+.onboard-modal .onboard-curve-left.background-blue, .onboard-normal-curve.background-blue, .onboard-modal .onboard-straight-line.background-blue {
   padding: 70px 20px 40px;
   background-color: var(--blue);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-indigo, .onboard-modal .onboard-slice-left.background-indigo, .onboard-modal .onboard-curve-right.background-indigo, 
-.onboard-modal .onboard-curve-left.background-indigo, .onboard-modal .onboard-straight-line.background-indigo {
+.onboard-modal .onboard-curve-left.background-indigo, .onboard-normal-curve.background-indigo, .onboard-modal .onboard-straight-line.background-indigo {
   padding: 70px 20px 40px;
   background-color: var(--indigo);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-purple, .onboard-modal .onboard-slice-left.background-purple, .onboard-modal .onboard-curve-right.background-purple, 
-.onboard-modal .onboard-curve-left.background-purple, .onboard-modal .onboard-straight-line.background-purple {
+.onboard-modal .onboard-curve-left.background-purple,.onboard-normal-curve.background-purple, .onboard-modal .onboard-straight-line.background-purple {
   padding: 70px 20px 40px;
   background-color: var(--purple);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-pink, .onboard-modal .onboard-slice-left.background-pink, .onboard-modal .onboard-curve-right.background-pink, 
-.onboard-modal .onboard-curve-left.background-pink, .onboard-modal .onboard-straight-line.background-pink {
+.onboard-modal .onboard-curve-left.background-pink,.onboard-normal-curve.background-pink, .onboard-modal .onboard-straight-line.background-pink {
   padding: 70px 20px 40px;
   background-color: var(--pink);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-red, .onboard-modal .onboard-slice-left.background-red, .onboard-modal .onboard-curve-right.background-red, 
-.onboard-modal .onboard-curve-left.background-red, .onboard-modal .onboard-straight-line.background-red {
+.onboard-modal .onboard-curve-left.background-red,.onboard-normal-curve.background-red, .onboard-modal .onboard-straight-line.background-red {
   padding: 70px 20px 40px;
   background-color: var(--red);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-orange, .onboard-modal .onboard-slice-left.background-orange, .onboard-modal .onboard-curve-right.background-orange, 
-.onboard-modal .onboard-curve-left.background-orange, .onboard-modal .onboard-straight-line.background-orange {
+.onboard-modal .onboard-curve-left.background-orange,.onboard-normal-curve.background-orange, .onboard-modal .onboard-straight-line.background-orange {
   padding: 70px 20px 40px;
   background-color: var(--orange);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-yellow, .onboard-modal .onboard-slice-left.background-yellow, .onboard-modal .onboard-curve-right.background-yellow, 
-.onboard-modal .onboard-curve-left.background-yellow, .onboard-modal .onboard-straight-line.background-yellow {
+.onboard-modal .onboard-curve-left.background-yellow,.onboard-normal-curve.background-yellow, .onboard-modal .onboard-straight-line.background-yellow {
   padding: 70px 20px 40px;
   background-color: var(--yellow);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-green, .onboard-modal .onboard-slice-left.background-green, .onboard-modal .onboard-curve-right.background-green, 
-.onboard-modal .onboard-curve-left.background-green, .onboard-modal .onboard-straight-line.background-green {
+.onboard-modal .onboard-curve-left.background-green,.onboard-normal-curve.background-green, .onboard-modal .onboard-straight-line.background-green {
   padding: 70px 20px 40px;
   background-color: var(--green);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-teal, .onboard-modal .onboard-slice-left.background-teal, .onboard-modal .onboard-curve-right.background-teal, 
-.onboard-modal .onboard-curve-left.background-teal, .onboard-modal .onboard-straight-line.background-teal {
+.onboard-modal .onboard-curve-left.background-teal,.onboard-normal-curve.background-teal, .onboard-modal .onboard-straight-line.background-teal {
   padding: 70px 20px 40px;
   background-color: var(--teal);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-cyan, .onboard-modal .onboard-slice-left.background-cyan, .onboard-modal .onboard-curve-right.background-cyan, 
-.onboard-modal .onboard-curve-left.background-cyan, .onboard-modal .onboard-straight-line.background-cyan {
+.onboard-modal .onboard-curve-left.background-cyan,.onboard-normal-curve.background-cyan, .onboard-modal .onboard-straight-line.background-cyan {
   padding: 70px 20px 40px;
   background-color: var(--cyan);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-gray-dark, .onboard-modal .onboard-slice-left.background-gray-dark, .onboard-modal .onboard-curve-right.background-gray-dark, 
-.onboard-modal .onboard-curve-left.background-gray-dark, .onboard-modal .onboard-straight-line.background-gray-dark {
+.onboard-modal .onboard-curve-left.background-gray-dark,.onboard-normal-curve.background-gray-dark, .onboard-modal .onboard-straight-line.background-gray-dark {
   padding: 70px 20px 40px;
   background-color: var(--gray-dark);
   margin-top: 80px;
 }
 
 .onboard-modal .onboard-slice-right.background-danger, .onboard-modal .onboard-slice-left.background-danger, .onboard-modal .onboard-curve-right.background-danger, 
-.onboard-modal .onboard-curve-left.background-danger, .onboard-modal .onboard-straight-line.background-danger {
+.onboard-modal .onboard-curve-left.background-danger,.onboard-normal-curve.background-danger, .onboard-modal .onboard-straight-line.background-danger {
   padding: 70px 20px 40px;
   background-color: var(--danger);
   margin-top: 80px;
@@ -220,12 +524,28 @@
   z-index: -1;
 }
 
-.onboard-modal .onboard-slice-right h4, .onboard-modal .onboard-slice-left h4, .onboard-modal .onboard-curve-right h4, .onboard-modal .onboard-curve-left h4, .onboard-modal .onboard-straight-line h4 {
+.onboard-modal .onboard-slice-right h4,
+.onboard-modal .onboard-electric-wave-blue h4, .onboard-modal .onboard-electric-wave-cyan h4, .onboard-modal .onboard-electric-wave-danger h4,
+.onboard-modal .onboard-electric-wave-gray-dark h4, .onboard-modal .onboard-electric-wave-green h4, .onboard-modal .onboard-electric-wave-indigo h4,
+.onboard-modal .onboard-electric-wave-danger h4, .onboard-modal .onboard-electric-wave-pink h4, .onboard-modal .onboard-electric-wave-purple h4, .onboard-modal .onboard-electric-wave-red h4,
+.onboard-modal .onboard-electric-wave-teal h4, .onboard-modal .onboard-electric-wave-yellow h4,
+.onboard-modal .onboard-wave-light h4, .onboard-modal .onboard-wave-blue h4, .onboard-modal .onboard-wave-cyan h4,
+.onboard-modal .onboard-wave-danger h4,.onboard-modal .onboard-wave-gray-dark h4, .onboard-modal .onboard-wave-green h4, .onboard-modal .onboard-wave-indigo h4,
+.onboard-modal .onboard-wave-orange h4, .onboard-modal .onboard-wave-pink h4, .onboard-modal .onboard-wave-purple h4, .onboard-modal .onboard-wave-red h4, .onboard-modal .onboard-wave-teal h4,
+.onboard-modal .onboard-wave-yellow h4, .onboard-modal .onboard-slice-left h4, .onboard-modal .onboard-curve-right h4,.onboard-normal-curve h4, .onboard-modal .onboard-curve-left h4, .onboard-modal .onboard-straight-line h4 {
   margin: 1.5rem;
 }
 
-.onboard-modal .onboard-slice-right .onboard-text, .onboard-modal .onboard-slice-left .onboard-text, .onboard-modal .onboard-curve-right .onboard-text, 
-.onboard-modal .onboard-curve-left .onboard-text, .onboard-modal .onboard-straight-line .onboard-text {
+.onboard-modal .onboard-slice-right .onboard-text, .onboard-modal .onboard-wave-light .onboard-text,
+.onboard-modal .onboard-electric-wave-blue .onboard-text, .onboard-modal .onboard-electric-wave-cyan .onboard-text, .onboard-modal .onboard-electric-wave-danger .onboard-text,
+.onboard-modal .onboard-electric-wave-gray-dark .onboard-text, .onboard-modal .onboard-electric-wave-green .onboard-text, .onboard-modal .onboard-electric-wave-indigo .onboard-text,
+.onboard-modal .onboard-electric-wave-danger .onboard-text, .onboard-modal .onboard-electric-wave-pink .onboard-text, .onboard-modal .onboard-electric-wave-purple .onboard-text, .onboard-modal .onboard-electric-wave-red .onboard-text,
+.onboard-modal .onboard-electric-wave-teal .onboard-text, .onboard-modal .onboard-electric-wave-yellow .onboard-text, 
+.onboard-modal .onboard-wave-blue .onboard-text, .onboard-modal .onboard-wave-cyan .onboard-text,
+.onboard-modal .onboard-wave-danger .onboard-text,.onboard-modal .onboard-wave-gray-dark .onboard-text, .onboard-modal .onboard-wave-green .onboard-text, .onboard-modal .onboard-wave-indigo .onboard-text,
+.onboard-modal .onboard-wave-orange .onboard-text, .onboard-modal .onboard-wave-pink .onboard-text, .onboard-modal .onboard-wave-purple .onboard-text, .onboard-modal .onboard-wave-red .onboard-text, .onboard-modal .onboard-wave-teal .onboard-text,
+.onboard-modal .onboard-wave-yellow .onboard-text, .onboard-modal .onboard-slice-left .onboard-text, .onboard-modal .onboard-curve-right .onboard-text, 
+.onboard-modal .onboard-curve-left .onboard-text,.onboard-modal .onboard-normal-curve .onboard-text, .onboard-modal .onboard-straight-line .onboard-text {
   font-weight: 300;
   font-size: 0.99rem;
   margin: 30px;
@@ -233,7 +553,16 @@
   padding-right: 20px;
 }
 
-.onboard-modal .onboard-slice-right .onboard-text:last-child , .onboard-modal .onboard-slice-left .onboard-text:last-child,
+.onboard-modal .onboard-slice-right .onboard-text:last-child, .onboard-modal .onboard-wave-light .onboard-text:last-child, 
+.onboard-modal .onboard-wave-blue .onboard-text:last-child, .onboard-modal .onboard-wave-cyan .onboard-text:last-child,
+.onboard-modal .onboard-wave-danger .onboard-text:last-child,.onboard-modal .onboard-wave-gray-dark .onboard-text:last-child, .onboard-modal .onboard-wave-green .onboard-text:last-child, .onboard-modal .onboard-wave-indigo .onboard-text:last-child,
+.onboard-modal .onboard-wave-orange .onboard-text:last-child, .onboard-modal .onboard-wave-pink .onboard-text:last-child, .onboard-modal .onboard-wave-purple .onboard-text:last-child, .onboard-modal .onboard-wave-red .onboard-text:last-child, .onboard-modal .onboard-wave-teal .onboard-text:last-child,
+.onboard-modal .onboard-wave-yellow .onboard-text:last-child,
+.onboard-modal .onboard-electric-wave-blue .onboard-text:last-child, .onboard-modal .onboard-electric-wave-cyan .onboard-text:last-child, .onboard-modal .onboard-electric-wave-danger .onboard-text:last-child,
+.onboard-modal .onboard-electric-wave-gray-dark .onboard-text:last-child, .onboard-modal .onboard-electric-wave-green .onboard-text:last-child, .onboard-modal .onboard-electric-wave-indigo .onboard-text:last-child,
+.onboard-modal .onboard-electric-wave-danger .onboard-text:last-child, .onboard-modal .onboard-electric-wave-pink .onboard-text:last-child, .onboard-modal .onboard-electric-wave-purple .onboard-text:last-child, .onboard-modal .onboard-electric-wave-red .onboard-text:last-child,
+.onboard-modal .onboard-electric-wave-teal .onboard-text:last-child, .onboard-modal .onboard-electric-wave-yellow .onboard-text:last-child,
+.onboard-modal .onboard-normal-curve .onboard-text:last-child, .onboard-modal .onboard-slice-left .onboard-text:last-child,
  .onboard-modal .onboard-curve-right .onboard-text:last-child, .onboard-modal .onboard-curve-left .onboard-text:last-child, .onboard-modal .onboard-straight-line .onboard-text:last-child {
   margin: 10px;
 }
@@ -260,8 +589,17 @@
           transition-delay: 0.3s;
 }
 
-.onboard-modal.animated .onboard-slice-right, .onboard-modal.animated .onboard-slice-left, .onboard-modal.animated .onboard-curve-right, 
-.onboard-modal.animated .onboard-curve-left, .onboard-modal.animated .onboard-straight-line {
+.onboard-modal.animated .onboard-slice-right, .onboard-modal.animated .onboard-wave-light, .onboard-modal.animated .onboard-slice-left,
+.onboard-modal.animated .onboard-wave-blue , .onboard-modal.animated .onboard-wave-cyan ,
+.onboard-modal.animated .onboard-wave-danger ,.onboard-modal.animated .onboard-wave-gray-dark , .onboard-modal.animated .onboard-wave-green , .onboard-modal.animated .onboard-wave-indigo ,
+.onboard-modal.animated .onboard-wave-orange , .onboard-modal.animated .onboard-wave-pink , .onboard-modal.animated .onboard-wave-purple , .onboard-modal.animated .onboard-wave-red , .onboard-modal.animated .onboard-wave-teal ,
+.onboard-modal.animated .onboard-wave-yellow ,
+.onboard-modal.animated .onboard-curve-right, 
+.onboard-modal.animated .onboard-electric-wave-blue , .onboard-modal.animated .onboard-electric-wave-cyan , .onboard-modal.animated .onboard-electric-wave-danger ,
+.onboard-modal.animated .onboard-electric-wave-gray-dark , .onboard-modal.animated .onboard-electric-wave-green , .onboard-modal.animated .onboard-electric-wave-indigo ,
+.onboard-modal.animated .onboard-electric-wave-danger , .onboard-modal.animated .onboard-electric-wave-pink , .onboard-modal.animated .onboard-electric-wave-purple , .onboard-modal.animated .onboard-electric-wave-red ,
+.onboard-modal.animated .onboard-electric-wave-teal , .onboard-modal.animated .onboard-electric-wave-yellow ,
+.onboard-modal.animated .onboard-curve-left, .onboard-modal.animated .onboard-normal-curve, .onboard-modal.animated .onboard-straight-line {
   opacity: 0;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -297,7 +635,15 @@
           transform: translateY(0) scale(1);
 }
 
-.onboard-modal.show .onboard-slice-right, .onboard-modal.show .onboard-slice-left, 
+.onboard-modal.show .onboard-slice-right, .onboard-modal.show .onboard-wave-light, 
+.onboard-modal.show .onboard-wave-blue , .onboard-modal.show .onboard-wave-cyan ,
+.onboard-modal.show .onboard-electric-wave-blue , .onboard-modal.show .onboard-electric-wave-cyan , .onboard-modal.show .onboard-electric-wave-danger ,
+.onboard-modal.show .onboard-electric-wave-gray-dark , .onboard-modal.show .onboard-electric-wave-green , .onboard-modal.show .onboard-electric-wave-indigo ,
+.onboard-modal.show .onboard-electric-wave-danger , .onboard-modal.show .onboard-electric-wave-pink , .onboard-modal.show .onboard-electric-wave-purple , .onboard-modal.show .onboard-electric-wave-red ,
+.onboard-modal.show .onboard-electric-wave-teal , .onboard-modal.show .onboard-electric-wave-yellow ,
+.onboard-modal.show .onboard-wave-danger ,.onboard-modal.show .onboard-wave-gray-dark , .onboard-modal.show .onboard-wave-green , .onboard-modal.show .onboard-wave-indigo ,
+.onboard-modal.show .onboard-wave-orange , .onboard-modal.show .onboard-wave-pink , .onboard-modal.show .onboard-wave-purple , .onboard-modal.show .onboard-wave-red , .onboard-modal.show .onboard-wave-teal ,
+.onboard-modal.show .onboard-wave-yellow , .onboard-modal.show .onboard-slice-left, .onboard-modal.show .onboard-normal-curve,
 .onboard-modal.show .onboard-curve-right, .onboard-modal.show .onboard-curve-left, .onboard-modal.show .onboard-straight-line {
   opacity: 1;
   -webkit-transform: translateY(0);
@@ -417,8 +763,16 @@
   outline: none;
 }
 
-.onboard-modal .onboard-slide .onboard-slice-right, .onboard-modal .onboard-slide .onboard-slice-left, .onboard-modal .onboard-slide .onboard-curve-right, 
-.onboard-modal .onboard-slide .onboard-curve-left, .onboard-modal .onboard-slide .onboard-straight-line {
+.onboard-modal .onboard-slide .onboard-slice-right, .onboard-modal .onboard-slide .onboard-wave-light,
+.onboard-modal .onboard-slide .onboard-wave-blue , .onboard-modal .onboard-slide .onboard-wave-cyan ,
+.onboard-modal .onboard-slide .onboard-electric-wave-blue , .onboard-modal .onboard-slide .onboard-electric-wave-cyan , .onboard-modal .onboard-slide .onboard-electric-wave-danger ,
+.onboard-modal .onboard-slide .onboard-electric-wave-gray-dark , .onboard-modal .onboard-slide .onboard-electric-wave-green , .onboard-modal .onboard-slide .onboard-electric-wave-indigo ,
+.onboard-modal .onboard-slide .onboard-electric-wave-danger , .onboard-modal .onboard-slide .onboard-electric-wave-pink , .onboard-modal .onboard-slide .onboard-electric-wave-purple , .onboard-modal .onboard-slide .onboard-electric-wave-red ,
+.onboard-modal .onboard-slide .onboard-electric-wave-teal , .onboard-modal .onboard-slide .onboard-electric-wave-yellow ,
+.onboard-modal .onboard-slide .onboard-wave-danger ,.onboard-modal .onboard-slide .onboard-wave-gray-dark , .onboard-modal .onboard-slide .onboard-wave-green , .onboard-modal .onboard-slide .onboard-wave-indigo ,
+.onboard-modal .onboard-slide .onboard-wave-orange , .onboard-modal .onboard-slide .onboard-wave-pink , .onboard-modal .onboard-slide .onboard-wave-purple , .onboard-modal .onboard-slide .onboard-wave-red , .onboard-modal .onboard-slide .onboard-wave-teal ,
+.onboard-modal .onboard-slide .onboard-wave-yellow , .onboard-modal .onboard-slide .onboard-slice-left, .onboard-modal .onboard-slide .onboard-curve-right, 
+.onboard-modal .onboard-slide .onboard-curve-left,.onboard-modal .onboard-slide .onboard-normal-curve, .onboard-modal .onboard-slide .onboard-straight-line {
   padding: 80px;
 }
 

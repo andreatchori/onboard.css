@@ -117,6 +117,19 @@
                         <option value="onboard-slice-right background-gray-dark">gray-dark</option>
                         <option value="onboard-slice-right background-danger">danger</option>
                     </optgroup> 
+                    <optgroup label="Normal curve">
+                        <option value="onboard-normal-curve background-indigo">Indigo</option>
+                        <option value="onboard-normal-curve background-purple">Purple</option>
+                        <option value="onboard-normal-curve background-pink">Pink</option>
+                        <option value="onboard-normal-curve background-red">Red</option>
+                        <option value="onboard-normal-curve background-orange">Orange</option>
+                        <option value="onboard-normal-curve background-yellow">Yellow</option>
+                        <option value="onboard-normal-curve background-green">Green</option>
+                        <option value="onboard-normal-curve background-teal">Teal</option>
+                        <option value="onboard-normal-curve background-cyan">Cyan</option>
+                        <option value="onboard-normal-curve background-gray-dark">gray-dark</option>
+                        <option value="onboard-normal-curve background-danger">danger</option>
+                    </optgroup>
                     <optgroup label="Curve-right">
                         <option value="onboard-curve-right background-indigo">Indigo</option>
                         <option value="onboard-curve-right background-purple">Purple</option>
@@ -142,7 +155,36 @@
                         <option value="onboard-curve-left background-cyan">Cyan</option>
                         <option value="onboard-curve-left background-gray-dark">gray-dark</option>
                         <option value="onboard-curve-left background-danger">danger</option>
-                    </optgroup>         
+                    </optgroup>
+                    <optgroup label="Wave">
+                        <option value="onboard-wave-light">Light</option>
+                        <option value="onboard-wave-blue">Blue</option>
+                        <option value="onboard-wave-indigo">Indigo</option>
+                        <option value="onboard-wave-purple">Purple</option>
+                        <option value="onboard-wave-pink">Pink</option>
+                        <option value="onboard-wave-red">Red</option>
+                        <option value="onboard-wave-orange">Orange</option>
+                        <option value="onboard-wave-yellow">Yellow</option>
+                        <option value="onboard-wave-green">Green</option>
+                        <option value="onboard-wave-teal">Teal</option>
+                        <option value="onboard-wave-cyan">Cyan</option>
+                        <option value="onboard-wave-gray-dark">gray-dark</option>
+                        <option value="onboard-wave-danger">danger</option>
+                    </optgroup>
+                    <optgroup label="Electric-wave">
+                        <option value="onboard-electric-wave-blue">Blue</option>
+                        <option value="onboard-electric-wave-indigo">Indigo</option>
+                        <option value="onboard-electric-wave-purple">Purple</option>
+                        <option value="onboard-electric-wave-pink">Pink</option>
+                        <option value="onboard-electric-wave-red">Red</option>
+                        <option value="onboard-electric-wave-orange">Orange</option>
+                        <option value="onboard-electric-wave-yellow">Yellow</option>
+                        <option value="onboard-electric-wave-green">Green</option>
+                        <option value="onboard-electric-wave-teal">Teal</option>
+                        <option value="onboard-electric-wave-cyan">Cyan</option>
+                        <option value="onboard-electric-wave-gray-dark">gray-dark</option>
+                        <option value="onboard-electric-wave-danger">danger</option>
+                    </optgroup>             
                 </select>
                 <button id="onboardButton" class="butt">Onboard it</button>
             </form>
@@ -150,11 +192,15 @@
             <div style="display: flex;justify-content: center;">
                 <p class="meta">
                     <a href="https://raw.githubusercontent.com/andreatchori/onboard.css/master/sources/onboard.min.css" download="onboard.css">
-                        Download Onboard.css</a> or 
+                        Download Onboard.css
+                    </a> 
+                    or 
                     <a href="https://github.com/andreatchori/onboard.css">View on GitHub</a>
                 </p>
             </div>
-            <p style="text-align: center;"><small>Another thing from <a href="https://github.com/andreatchori">André ATCHORI</a>.</small></p>
+            <p style="text-align: center;">
+                <small>Another thing from <a href="https://github.com/andreatchori">André ATCHORI</a>.</small>
+            </p>
         </div>
     </main><!-- /.onboard-content -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
@@ -201,6 +247,21 @@
                 case 'onboard-curve-right background-purple':
                 case 'onboard-curve-right background-danger':
                 case 'onboard-curve-right background-pink':
+                case 'onboard-normal-curve background-gray-dark':
+                case 'onboard-normal-curve background-indigo':
+                case 'onboard-normal-curve background-purple':
+                case 'onboard-normal-curve background-danger':
+                case 'onboard-normal-curve background-pink':
+                case 'onboard-wave-gray-dark':
+                case 'onboard-wave-indigo':
+                case 'onboard-wave-purple':
+                case 'onboard-wave-danger':
+                case 'onboard-wave-pink':
+                case 'onboard-electric-wave-gray-dark':
+                case 'onboard-electric-wave-indigo':
+                case 'onboard-electric-wave-purple':
+                case 'onboard-electric-wave-danger':
+                case 'onboard-electric-wave-pink':
                     $('.onboard-title').addClass('text-light');
                     $('.onboard-text').addClass('text-light');
                 break;

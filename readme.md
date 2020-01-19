@@ -44,7 +44,7 @@ or use a Github hosted version
 | Class Name        |                    |                     |                      |
 | ----------------- | ------------------ | ------------------- | -------------------- |
 | `straight-line`   | `slice-left`       | `slice-right`       | `curve-left`         |
-| `curve-right`     | 
+| `curve-right`     | `normal-curve`     |  `wave`             | `electric-wave`      |
 
 ### Title
 
